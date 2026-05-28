@@ -2,7 +2,7 @@
   "name": "ZeroLog",
   "short_name": "ZeroLog",
   "description": "Vehicle maintenance tracker",
-  "start_url": "/zerolog/",
+  "start_url": "./",
   "display": "standalone",
   "background_color": "#111111",
   "theme_color": "#111111",
